@@ -301,6 +301,7 @@ namespace HWIDChecker
 
 
                     }
+                    Display.Close();
                 }
                 catch { continue; }
 
